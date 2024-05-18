@@ -1,9 +1,10 @@
-<<<<<<< HEAD
-# Projet2_java
+
+# Projets_java
 
 
-Le code est dans la branche master/
+Les codes sont dans la branche master/
 =======
-git add README.md
-# Projet2_java
->>>>>>> 336205e473fff0d1a499445d93608eec7631d3e3
+Projet1 : il s'agit seulement de Bruteforce.java et de Bruteforce.class
+
+Le reste c'est le projet2
+
